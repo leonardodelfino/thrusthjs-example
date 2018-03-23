@@ -1,0 +1,10 @@
+{
+  "name": "thrust-app",
+  "version": "1.0",
+  "dependencies": [
+    "thrust-bitcodes/http",
+    "thrust-bitcodes/filesystem",
+    "thrust-bitcodes/database",
+    "database"
+  ]
+}
